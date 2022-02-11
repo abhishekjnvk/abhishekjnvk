@@ -4,6 +4,7 @@
 
 ## Connect with me:
 [![Website](https://img.shields.io/website?label=resume.abhishekjnvk.in&logo=Google%20Chrome&style=flat-square&url=https://resume.abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/0M3s)&nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/website?label=blog.abhishekjnvk.in&logo=Google%20Chrome&style=flat-square&url=https://blog.abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/0M3s)&nbsp;&nbsp;&nbsp;
 [![linkedin](https://img.shields.io/website?label=/abhishekjnvk&logo=LinkedIn&style=flat-square&url=https://resume.abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/0C3L)&nbsp;&nbsp;&nbsp;
 [![linkedin](https://img.shields.io/website?label=abhishekkumarjnvk@gmail.com&logo=Gmail&style=flat-square&url=https://resume.abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/Enl9)&nbsp;&nbsp;&nbsp;
 
