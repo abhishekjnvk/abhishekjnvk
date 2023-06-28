@@ -9,7 +9,12 @@
 [![linkedin](https://img.shields.io/website?label=abhishekkumarjnvk@gmail.com&logo=Gmail&style=flat-square&url=https://abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/Enl9)&nbsp;&nbsp;&nbsp;
 
 ## Statics:
-<img alt="Abhishek's GitHub Stats" height=150em align="left" src="https://github-readme-stats.vercel.app/api/?username=abhishekjnvk&show_icons=true&theme=radical&hide_border=false&count_private=false" /><img alt="Abhishek's GitHub Stats" height=150em align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjnvk&show_icons=true&layout=compact&theme=radical&hide=html,css&custom_title=Most used languages" />
+
+<img alt="GitHub Stats" align="left" width="30%" src="https://github-readme-stats.vercel.app/api/?username=abhishekjnvk&show_icons=true&hide_border=false&count_private=false" />
+<img alt="GitHub Stats" width="33%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjnvk&layout=compact&hide=css&custom_title=Most%20used%20languages" />
+<img align="center" width="33%"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjnvk" alt="abhishekjnvk" />
+
+
 
 [website]: https://resume.abhishekjnvk.in
 [linkedin]: https://www.linkedin.com/in/abhishekjnvk
