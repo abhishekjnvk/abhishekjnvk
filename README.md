@@ -1,6 +1,5 @@
 ### 
 <h1 align="center">Hey there 👋! Glad to see you here :heart:</h1>
-<p>I'm a final year undergraduate at NIT, Jamshedpur</p>
 
 ## Connect with me:
 [![Website](https://img.shields.io/website?label=abhishekjnvk.in&logo=Google%20Chrome&style=flat-square&url=https://abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/0M3s)&nbsp;&nbsp;&nbsp;
