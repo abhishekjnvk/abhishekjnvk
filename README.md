@@ -13,7 +13,7 @@
 <img align="center" width="33%"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjnvk" alt="abhishekjnvk" />
 -->
 <center>
-<img alt="GitHub Stats" align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjnvk&theme=vue-dark" />
+<img alt="GitHub Stats" align="left" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjnvk&theme=vue-dark" />
 </center>
 
 
