@@ -1,5 +1,4 @@
-### 
-<h1 align="center">Hey there 👋! Glad to see you here</h1>
+<h4 align="center">Hey there 👋! Glad to see you here</h1>
 
 ## Connect with me:
 [![Website](https://img.shields.io/website?label=abhishekjnvk.in&logo=Google%20Chrome&style=flat-square&url=https://abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/0M3s)&nbsp;&nbsp;&nbsp;
@@ -12,10 +11,6 @@
 <img alt="GitHub Stats" width="33%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjnvk&layout=compact&hide=css&custom_title=Most%20used%20languages" />
 <img align="center" width="33%"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjnvk" alt="abhishekjnvk" />
 -->
-<center>
-<img alt="GitHub Stats" align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjnvk&theme=vue-dark" />
-</center>
-
 
 [website]: https://resume.abhishekjnvk.in
 [linkedin]: https://www.linkedin.com/in/abhishekjnvk
