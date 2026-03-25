@@ -1,10 +1,9 @@
 <h4 align="center">Hey there 👋! Glad to see you here</h1>
 
 ## Connect with me:
-[![Website](https://img.shields.io/website?label=abhishekjnvk.in&logo=Google%20Chrome&style=flat-square&url=https://abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/0M3s)&nbsp;&nbsp;&nbsp;
-[![Website](https://img.shields.io/website?label=Blogs&logo=Google%20Chrome&style=flat-square&url=https://abhishekjnvk.in/blog)](https://link.abhishekjnvk.in/go/mLY9)&nbsp;&nbsp;&nbsp;
-[![linkedin](https://img.shields.io/website?label=/abhishekjnvk&logo=LinkedIn&style=flat-square&url=https://abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/0C3L)&nbsp;&nbsp;&nbsp;
-[![linkedin](https://img.shields.io/website?label=abhishekkumarjnvk@gmail.com&logo=Gmail&style=flat-square&url=https://abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/Enl9)&nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/website?label=abhishekjnvk.in&logo=Google%20Chrome&style=flat-square&url=https://abhishekjnvk.in)](https://link.abhishekjnvk.in/website-github)&nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/website?label=Blogs&logo=Google%20Chrome&style=flat-square&url=https://codecave.abhishekjnvk.in)](https://link.abhishekjnvk.in/blog-github)&nbsp;&nbsp;&nbsp;
+[![linkedin](https://img.shields.io/website?label=abhishekkumarjnvk@gmail.com&logo=Gmail&style=flat-square&url=https://abhishekjnvk.in/)](https://link.abhishekjnvk.in/mail-github)&nbsp;&nbsp;&nbsp;
 <!--
 ## Statics:
 <img alt="GitHub Stats" align="left" width="30%" src="https://github-readme-stats.vercel.app/api/?username=abhishekjnvk&show_icons=true&hide_border=false&count_private=true" />
